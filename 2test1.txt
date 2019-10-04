@@ -1,0 +1,18 @@
+h
+n
+2 30
+4 70
+X + Y
+Y - X
+X * 2.5
+X / 2.3
+Y / X
+X > Y
+Y > X
+X < Y
+Y < X
+X = Y
+X = X
+s
+q
+
